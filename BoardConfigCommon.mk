@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2013 The CyanogenMod Project
+# Copyright (C) 2013 The MoKee OpenSource Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -96,7 +96,7 @@ TARGET_DISPLAY_USE_RETIRE_FENCE := true
 
 BOARD_RIL_CLASS := ../../../device/lge/gproj-common/ril/
 
-BOARD_HARDWARE_CLASS := device/lge/gproj-common/cmhw/
+BOARD_HARDWARE_CLASS := device/lge/gproj-common/mkhw/
 
 TARGET_USES_LOGD := false
 BOARD_USES_LEGACY_MMAP := true
